@@ -1,6 +1,6 @@
 ### Richard Prime
 
-Platform and AI engineer, Manila. Twenty years in infrastructure, most recently building AI systems that work safely over real business data.
+Platform engineer and AI Solution Architech, Manila. Over twenty years in infrastructure, most recently building AI systems that work safely over real business data.
 
 Azure architecture and migration. MCP servers, RAG, and agentic automation with the Claude API. Multi-tenant environments, infrastructure as code, and the security discipline that goes with both.
 
